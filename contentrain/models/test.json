@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "name": "date",
+    "fieldId": "date",
+    "modelId": "test",
+    "componentId": "date",
+    "options": {},
+    "validations": {},
+    "fieldType": "date"
+  }
+]
