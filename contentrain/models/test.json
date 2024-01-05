@@ -34,5 +34,14 @@
     "options": {},
     "validations": {},
     "fieldType": "number"
+  },
+  {
+    "name": "phone",
+    "fieldId": "phone",
+    "modelId": "test",
+    "componentId": "phone-number",
+    "options": {},
+    "validations": {},
+    "fieldType": "number"
   }
 ]
