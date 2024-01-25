@@ -43,5 +43,14 @@
     "options": {},
     "validations": {},
     "fieldType": "number"
+  },
+  {
+    "name": "media",
+    "fieldId": "media",
+    "modelId": "test",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "media"
   }
 ]
